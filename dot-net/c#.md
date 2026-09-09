@@ -6,6 +6,7 @@ Day 1: Advanced C#
 * string vs StringBuilder
 * ref, out, in
 * record vs class vs struct
+ records - https://www.geeksforgeeks.org/c-sharp/record-types-in-c-sharp/
 * IDisposable, using, Finalizer
 * Garbage Collection (Gen 0/1/2, LOH)
 
