@@ -167,3 +167,4 @@ Database credentials are currently stored inside appsettings.json. How would you
 
 ### Scenario 8
 You have a Service Bus queue. When messages increase from 1,000 to 1 million, how would your AKS workers automatically scale?
+
