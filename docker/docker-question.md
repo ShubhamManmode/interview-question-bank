@@ -11,6 +11,7 @@ Docker Fundamentals
 10. What is a Docker Registry?
 11. What is Azure Container Registry (ACR)?
 12. What is the difference between Docker Hub and ACR?
+    
 2. Dockerfile
 13. What is a Dockerfile?
 14. What is the purpose of the FROM instruction?
@@ -28,6 +29,7 @@ Docker Fundamentals
 26. What is a base image?
 27. What is the difference between SDK and Runtime images in .NET?
 28. Why should we use the .NET runtime image in the final Docker image?
+    
 3. Docker Commands
 29. How do you build a Docker image?
 30. How do you run a Docker container?
@@ -46,6 +48,7 @@ Docker Fundamentals
 43. How do you check Docker container resource usage?
 44. What is the difference between docker run and docker start?
 45. What is the difference between docker exec and docker attach?
+    
 4. Docker Networking
 46. How does Docker networking work?
 47. What is a Docker network?
@@ -62,6 +65,7 @@ Docker Fundamentals
 58. How does one microservice communicate with another microservice running in Docker?
 59. What is Docker DNS?
 60. How does Docker resolve container names?
+    
 5. Docker Volumes and Storage
 61. What happens to data when a Docker container is deleted?
 62. What is a Docker volume?
@@ -80,6 +84,7 @@ Docker Fundamentals
 74. Should secrets be stored inside a Dockerfile?
 75. How do you securely provide database connection strings to containers?
 76. How would you integrate Docker with Azure Key Vault?
+    
 7. Docker Compose
 77. What is Docker Compose?
 78. Why do we use Docker Compose?
@@ -93,6 +98,7 @@ Docker Fundamentals
 86. How do you configure volumes in Docker Compose?
 87. How do you create a .NET API + Redis + SQL Server setup using Docker Compose?
 88. What is the difference between Docker Compose and Kubernetes?
+    
 8. Docker and .NET
 89. How do you containerize a .NET 8 application?
 90. How do you build a Docker image for an ASP.NET Core API?
@@ -104,6 +110,7 @@ Docker Fundamentals
 96. How do you pass an ASP.NET Core connection string to Docker?
 97. How do you run database migrations when deploying a .NET application in Docker?
 98. How do you debug a .NET application running inside a Docker container?
+    
 9. Docker Security
 99. How do you secure Docker containers?
 100. Why should applications not run as root inside containers?
@@ -114,6 +121,7 @@ Docker Fundamentals
 105. What is a minimal/base image?
 106. What are Docker image vulnerabilities?
 107. How can you reduce the attack surface of a Docker image?
+     
 10. Docker Troubleshooting
 108. A container starts and immediately stops. How do you troubleshoot it?
 109. What is docker logs and how do you use it?
@@ -128,6 +136,7 @@ Docker Fundamentals
 118. Why does localhost sometimes cause problems when applications communicate inside Docker?
 119. What is CrashLoopBackOff in Kubernetes and how is it related to container failures?
 120. What is ImagePullBackOff and how would you troubleshoot it?
+     
 11. Docker Performance
 121. How do you reduce Docker image size?
 122. How do you improve Docker build performance?
@@ -137,6 +146,7 @@ Docker Fundamentals
 126. How do you optimize a .NET Docker image?
 127. How do you monitor Docker container CPU and memory usage?
 128. What happens when a container exceeds its memory limit?
+     
 12. Docker with Microservices
 129. How would you containerize multiple .NET microservices?
 130. How do multiple microservices communicate using Docker?
@@ -148,6 +158,7 @@ Docker Fundamentals
 136. How would you monitor multiple containers?
 137. How would you handle service discovery?
 138. How would you implement load balancing between multiple containers?
+     
 13. Docker + Azure
 139. How do you push a Docker image to Azure Container Registry?
 140. How does AKS pull images from ACR?
@@ -159,6 +170,7 @@ Docker Fundamentals
 146. How do you implement rolling deployment with Docker and AKS?
 147. How do you rollback a Dockerized application in AKS?
 148. How do Docker containers, ACR, and AKS work together?
+     
 14. Scenario-Based Questions
 149. You have two .NET microservices running in separate containers. How will they communicate?
 150. Your Docker container starts and immediately stops. How will you troubleshoot it?
