@@ -3,11 +3,10 @@
 ## 1. AKS Fundamentals
 
 - What is AKS?
->
-  AKS is Azure's managed Kubernetes service that helps you deploy and manage containerized applications without managing all the Kubernetes       infrastructure yourself.
-It has two main modes:
-AKS Automatic → Azure manages most things automatically, such as nodes, scaling, security, monitoring, and upgrades. Best for most applications.
-AKS Standard → You get more control over the cluster and node pools. Best when you have specific infrastructure or configuration requirements.
+> AKS is Azure's managed Kubernetes service that helps you deploy and manage containerized applications without managing all the Kubernetes              infrastructure yourself.
+  It has two main modes:
+  AKS Automatic → Azure manages most things automatically, such as nodes, scaling, security, monitoring, and upgrades. Best for most applications.
+  AKS Standard → You get more control over the cluster and node pools. Best when you have specific infrastructure or configuration requirements.
 
 - Why do we use AKS instead of deploying containers directly on Azure VMs?
 - What is Kubernetes?
